@@ -11,6 +11,14 @@
 
 ---
 
+##  Inspiration
+- Elgato stream deck
+- [See through Keyboard](https://www.youtube.com/watch?v=hqKPu2BEkI0&t=691s)
+- [Free-deck](https://github.com/FreeYourStream/freedeck-hardware)
+
+
+---
+
 ##  Previous versions
 
 This project is the latest iteration in a series of custom input devices:

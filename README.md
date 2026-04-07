@@ -6,7 +6,7 @@
 
 # Navigation
 
-1. [Design](https://github.com/martinsram3k/LINK/design)
+1. [Design](https://github.com/martinsram3k/LINK/blob/main/design/design.md)
 
 ---
 

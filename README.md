@@ -4,6 +4,12 @@
 
 ---
 
+# Navigation
+
+1. [Design](https://github.com/martinsram3k/LINK/design)
+
+---
+
 ##  Features
 * **Dynamic Visuals:** Under-keycap display for real-time icon updates.
 * **Compact Footprint:** Designed to fit any workspace without taking up space.

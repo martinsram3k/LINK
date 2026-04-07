@@ -1,32 +1,24 @@
-# Link - macropad bude můj 4. macropad který jsem vytvořil 
+# ⌨ LINK
 
-Tento macropad bude odlyšený od ostatních tím že bude spojovat nelepší funkce z předchozích verzí.
-
----
-
-## Předešlé verze
-
-[FLOW](https://github.com/martinsram3k/FLOW)
-[NODE](https://github.com/martinsram3k/NODE)
+**LINK** is a small, DIY programmable macropad featuring an integrated display positioned directly under the keycaps, bringing the [Elgato Stream Deck](https://img-cdn.heureka.group/v1/c3750f38-7b7b-4183-82a2-fdb2e740d32d.jpg?width=800&height=800) concept into a custom, compact form factor.
 
 ---
 
-## Funkce které macropad bude mít:
+##  Features
+* **Dynamic Visuals:** Under-keycap display for real-time icon updates.
+* **Compact Footprint:** Designed to fit any workspace without taking up space.
+* **Customizable:** Fully adaptable for shortcuts, macros, or system monitoring.
 
-| Funkce | Důvod funkce | Jak funkce bude fungovat |
-| :---: | :---: | :---: |
-| Baterie | LINK bude wireless | Integrovaná naíjčka lipo baterie |
-| Bluetooth | Aby LINK mohl fungovat bez kabelu | MCU má integrovaný bluetooth modul |
-| Haptický feedback | Aby uživatel měl zpětnou vazbu při stisku klávesy | Ovládání vybračního motoru pomocí transistoru |
-| Underglow | Aestetický vzhled | Adresovatelné led (WS2812B) |
-| Display | Uživatel uvidí aktivní klavesové zkratky a také widgety (čas, ovládání hudby, atd) | 1.9 Inch TFT Display |
-| Light sensor | Macropad při snížené světelnosti sniží jas displaye a led diod | Fotorezistor který bude umístěn tak aby snímal okolní světlost |
-| Hotswap switches | Aby uživatel mohl libovolně měnit switche | Hotswap sockety |
-| Rotary encoder | Macropad Dokáže například scroolovat stránky nebo projíždět time line | Encoder |
-| ON/OFF | Na kraji bude ON/OFF switch pro vypnutí a zapnutí macropadu | Toggle switch který bude fungovat jako ON/OFF |
-| Custom firmware | Aby jsem při vývoji měl. velkou flexibilitu | Pomocí CircuitPython |
-|  |  |  |
-|  |  |  |
+---
 
+##  Previous versions
 
+This project is the latest iteration in a series of custom input devices:
 
+* [**FLOW**](https://github.com/martinsram3k/FLOW) – Focus on fluid ergonomics and design.
+* [**NODE**](https://github.com/martinsram3k/NODE) – Experimental modular connectivity.
+
+---
+
+> [!NOTE]
+> This project is currently under development. Pull requests and feedback are welcome!
